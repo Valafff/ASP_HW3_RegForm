@@ -1,0 +1,22 @@
+fieldset
+{
+    font-family: 'Courier New', Courier, monospace;
+    filter: alpha(Opacity=50);
+    background-color: rgb(228, 202, 179);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 15%;
+}
+
+label
+{
+    font-family: 'Courier New', Courier, monospace
+}
+
+input{
+    border-radius: 5px;
+    font-size: 2cap;
+}
